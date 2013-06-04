@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="NewTiles2" tilewidth="40" tileheight="40">
+  <image source="NewTiles.png" width="512" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="20">
+  <properties>
+   <property name="visible" value="1"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA5NlYGBQJIBFiFADwvJArAnExgQwSA07EVhz1LxR80bNw2seJwPhfKlChBoQFiDSbpAaWyKw5qh5g848STzxD8NcRKgBYWkgBgD8/6DeQAYAAA==
+  </data>
+ </layer>
+</map>

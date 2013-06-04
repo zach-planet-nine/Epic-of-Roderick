@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/TEORWorldMapTest.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.teor.arena</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<real>1</real>
+	<key>CreationDate</key>
+	<date>2011-07-15T07:10:29Z</date>
+	<key>Name</key>
+	<string>FirstDistributionTest</string>
+	<key>SchemeName</key>
+	<string>TEORWorldMapTestDistribution 2</string>
+</dict>
+</plist>

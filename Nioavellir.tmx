@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="Nioavellir" tilewidth="40" tileheight="40">
+  <image source="Alheim.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Base Layer" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3U0WkCQRQF0CkqlmGsQu0iaBXGVBG1DFOUz48HQ9hZlR0WhHPg8nZhv+btnUMp5TCS78gmshvIPvJXfcd0vw9yinxEFo2squ+YLv/t00iWkc9GVkU/evp/J+0H5rrox1xyH/c76Rj5GZitbuhHf3mW9zuptY9WN/Sjv2f2oR/zybPcRs6Ry8C8Fv2YS55l7iVTv4/t6qvoR095lrmXTO6ifm5FP/rJfdTz1eRemC7/7Xq+muwUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO/nBqpBE0pAnAAA
+  </data>
+ </layer>
+ <layer name="Collisions" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3MMQrAMAwEQT/t/v+qlMZNIrCwIczAdVqN8S7FcUaabqjLxyo9fXK5Z5XLPatc7lmlod/9wZSGfvcHUz5W6TkjxQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/M0DVZbSqkCcAAA=
+  </data>
+ </layer>
+</map>

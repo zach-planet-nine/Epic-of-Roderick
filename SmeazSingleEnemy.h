@@ -1,0 +1,19 @@
+//
+//  SmeazSingleEnemy.h
+//  TEORWorldMapTest
+//
+//  Created by Zach Babb on 7/10/11.
+//  Copyright 2011 InstantLazer. All rights reserved.
+//
+
+#import "AbstractBattleAnimation.h"
+
+@class ParticleEmitter;
+
+@interface SmeazSingleEnemy : AbstractBattleAnimation {
+    
+    ParticleEmitter *smeazEmitter;
+    int damage;
+}
+
+@end

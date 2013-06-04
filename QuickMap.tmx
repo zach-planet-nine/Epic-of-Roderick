@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="20" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="QuickTileSet" tilewidth="40" tileheight="40">
+  <image source="quicktileset.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NlYGBgJQNzAjEbkZgc80ftGLVj1I5RO0btGLVj1A7i7QAAo3oV09AHAAA=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="25" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3PbQqCQBCA4UkDpUNbeQktL5HVJfrwEpZdog97BSHYCtplBANfeP4M7DIj8irCFDPMEYt+CVIssESm/H+AFXKsscG2nWsVYoc9DjiiaOdaNfuWOOGMChfRv+OKG+54oBb9O2zmLn3bd7jjveGO33O5w8NIcYdPjeFbvplYzvteYOii0PAPPQFCz6/m0AcAAA==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" width="25" height="20">
+  <object name="MyObject" type="1" x="480" y="640" width="80" height="40">
+   <properties>
+    <property name="subtype" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

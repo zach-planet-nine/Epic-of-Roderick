@@ -1,0 +1,204 @@
+TTEORWorldMapTest
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004DD8CAEF0000000000000132
+t1306053359
+s306
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004BF4B7F900000000000001E5
+t1274329081
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C04711400000000000009CD
+t1275359508
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471FC0000000002D563E0
+t1275359740
+s47539168
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/TEORWorldMapTestAppDelegate.h
+c000000004DDE9520000000000000015A
+t1306432800
+s346
+i<UIKit/UIKit.h>
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/TEORWorldMapTestAppDelegate.m
+c000000004DDE952000000000000009EA
+t1306432800
+s2538
+i"TEORWorldMapTestAppDelegate.h"
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/MainWindow.xib
+c000000004DDE95200000000000002135
+t1306432800
+s8501
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/TEORWorldMapTest_Prefix.pch
+c000000004DDE952000000000000000C9
+t1306432800
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app.dSYM
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/Info.plist
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/MainWindow.nib
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/PkgInfo
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/ResourceRules.plist
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/TEORWorldMapTest
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv6/TEORWorldMapTest
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv6/TEORWorldMapTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv6/TEORWorldMapTestAppDelegate.o
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv7/TEORWorldMapTest
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv7/TEORWorldMapTest.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv7/TEORWorldMapTestAppDelegate.o
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/main.m
+c000000004DDE9520000000000000016A
+t1306432800
+s362
+i<UIKit/UIKit.h>
+
+N/Users/zachbabb/Library/MobileDevice/Provisioning Profiles/B823BED4-A19F-4CDD-B605-D8E16159009A.mobileprovision
+c000000004DDDEFBB0000000000001BFD
+t1306390459
+s7165
+
+N/var/folders/dv/dvx3xbX+F7O0qTQZK90C1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEORWorldMapTest_Prefix-bflyxgajqroteddlvplqttiucxcu/TEORWorldMapTest_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/dv/dvx3xbX+F7O0qTQZK90C1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEORWorldMapTest_Prefix-gyyxbwmnrmmbijbhsxezprbwybyv/TEORWorldMapTest_Prefix.pch.gch
+t2
+s0
+
+NTEORWorldMapTest-Info.plist
+c000000004DDE9520000000000000038D
+t1306432800
+s909
+
+CCodeSign "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app"
+r0
+
+CCompileC build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv6/TEORWorldMapTestAppDelegate.o "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/TEORWorldMapTestAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv6/main.o "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv7/TEORWorldMapTestAppDelegate.o "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/TEORWorldMapTestAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv7/main.o "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/TEORWorldMapTest.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/TEORWorldMapTest" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app.dSYM" "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/TEORWorldMapTest"
+r0
+
+CLd "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv6/TEORWorldMapTest" normal armv6
+r0
+
+CLd "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/Objects-normal/armv7/TEORWorldMapTest" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/Info.plist" TEORWorldMapTest-Info.plist
+r0
+
+CProcessPCH /var/folders/dv/dvx3xbX+F7O0qTQZK90C1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEORWorldMapTest_Prefix-bflyxgajqroteddlvplqttiucxcu/TEORWorldMapTest_Prefix.pch.gch TEORWorldMapTest_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/dv/dvx3xbX+F7O0qTQZK90C1U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEORWorldMapTest_Prefix-gyyxbwmnrmmbijbhsxezprbwybyv/TEORWorldMapTest_Prefix.pch.gch TEORWorldMapTest_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/zachbabb/Library/MobileDevice/Provisioning Profiles/B823BED4-A19F-4CDD-B605-D8E16159009A.mobileprovision" "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/TEORWorldMapTest.build/Debug-iphoneos/TEORWorldMapTest.build/TEORWorldMapTest.xcent"
+r0
+
+CTouch "/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/build/Debug-iphoneos/TEORWorldMapTest.app"
+r0
+

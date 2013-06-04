@@ -1,0 +1,4 @@
+<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+<command-line>: warning: this is the location of the previous definition
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/AbstractEntity.m: In function '-[AbstractEntity updateWithDelta:]':
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/AbstractEntity.m:58: warning: unused variable 'dontMove'

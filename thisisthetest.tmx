@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="50" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="TestTiles" tilewidth="40" tileheight="40">
+  <image source="testtiles.png" width="120" height="40"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <properties>
+   <property name="visible" value="1"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2XQRKAIAwDUf//Z68OI22llDRjD7moYJZE1KO1dgg6HZLmlO4ZoeIojuLYx6Ex/p3jUsTSK8nrKo7ed3HgOSQuFo7ee3F859D2sdF8o70KmYeUkzSn5rM49nGMPFavcByaojhmlK1XEUL0KoIB8f7w+psZj+L4cl+N17seWbjRHH2/pX2J4Tn3dhydx2x2WfPQ1pSlVyu8MHCM/gfZOCzjGDgs+xkTR0SWOzks55k4pHFMHJVHDllyYuLwfLdkWnctjwws2neiJY8sHNq5N57nsQwslu5n/re1doqFw3tdBg6rd2tuKJ8r3gtojqffN83kxqwIjhshZoDJECcAAA==
+  </data>
+ </layer>
+</map>

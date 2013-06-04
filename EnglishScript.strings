@@ -1,0 +1,309 @@
+/* 
+  EnglishScript.strings
+  TEORWorldMapTest
+
+  Created by Zach Babb on 8/5/11.
+  Copyright 2011 InstantLazer. All rights reserved.
+*/
+/* The party meets Dauphine. */
+"CutScene10Line1" = "Dauphine: Seior how long has it been?";
+"CutScene10Line2" = "Seior: Too long Dauphine. You haven't been to Alfheim in ages!";
+"CutScene10Line3" = "Dauphine: 'Tis true. Well it is good to see you now, although I wish the circumstances were more peaceful.";
+"CutScene10Line4" = "Seior: More peaceful? What do you mean?";
+"CutScene10Line5" = "Dauphine: Two normally peaceful groups of men have taken up arms.";
+"CutScene10Line6" = "Dauphine: I tried to stop it from happening, but they did not seem to keen on listening to elves.";
+"CutScene10Line7" = "Ally: Men are always fighting. What nonsense has led to it this time?";
+"CutScene10Line8" = "Dauphine: Long ago the Astorians and Langelois were always at war, but 100 years ago an old traveller came and brought them together.";
+"CutScene10Line9" = "Dauphine: This traveller assisted the groups in planting a bush of peace. As long as this bush bore fruit, there could be no war amongst the Astorians and Langelois.";
+"CutScene10Line10" = "Dauphine: But the Astorians' bush has gone missing. They blame the Langelois, but I feel something else is afoot.";
+"CutScene10Line11" = "Seior: Something else? What do you mean.";
+"CutScene10Line12" = "Dauphine: Monsters started appearing right around the time that the bush went missing. I fear some evil has stolen the bush to distract us from the real threat.";
+"CutScene10Line13" = "Roderick: Monsters are just appearing everywhere. First in Alfheim and now here in Midgard.";
+"CutScene10Line14" = "Dauphine: Alfheim has been invaded as well? What in the realms is going on?";
+"CutScene10Line15" = "Seior: There are signs beginning to point to Ragnarok. Surely your Volur has seen some of them.";
+"CutScene10Line16" = "Dauphine: Perhaps she has, but she left to meet with other members of her order at Yggdrassil.";
+"CutScene10Line17" = "Seior: A meeting of Volur. This is odd indeed.";
+"CutScene10Line18" = "Ally: Sorry to interrupt, but we do have our own task to accomplish.";
+"CutScene10Line19" = "Ally: We need to know how to get into Helheim.";
+"CutScene10Line20" = "Dauphine: Oh? I would help with that if the paths were not blocked by this war.";
+"CutScene10Line21" = "Roderick: No problem, we'll cut our way through.";
+"CutScene10Line22" = "Dauphine: If you try that, I will strike you down. My husband is fighting on those lines and I will not let harm befall him.";
+"CutScene10Line23" = "Seior: Then it looks like we must end this war.";
+"CutScene10Line24" = "Roderick: How do you suppose we do that?";
+"CutScene10Line25" = "Seior: By finding this peace bush. Dauphine, where do the monsters seem to be coming from?";
+"CutScene10Line26" = "Dauphine: They seem to be coming from a cave to the North. You can get there through this path behind me.";
+"CutScene10Line27" = "Roderick: Excellent! Off to the cave then.";
+"CutScene10Line28" = "Dauphine: Here take this, it will help with the monsters that have been appearing.";
+"CutScene10Line29" = "&Kenaz";
+"CutScene10Line30" = "Dauphine: Good luck to you all.";
+"CutScene10Line31" = ";";
+
+/* The party meets Budrostir */
+"CutScene11Line1" = "Roderick: Hail sir, I'm not sure if you should be out here. There are monsters afoot.";
+"CutScene11Line2" = "Ranger: Monsters concern me not. The flora and fauna here do not distinguish between men or monsters.";
+"CutScene11Line3" = "Ranger: As their shepherd I too see no distinction.";
+"CutScene11Line4" = "Roderick: Well we do distinguish and we need to find the lair of the monsters. Is there a cave around here?";
+"CutScene11Line5" = "Ranger: You shouldn't need my help to find this cave, and you won't get it either.";
+"CutScene11Line6" = "Roderick: What's your problem ranger? We were just asking for help?";
+"CutScene11Line7" = "Ranger: Why help those that only harm my wards.";
+"CutScene11Line8" = "Ranger: Good luck to you travellers, but stay away from the children of Midgard.";
+"CutScene11Line9" = ";";
+
+/* The monster in the cave */
+"CutScene12Line1" = "Giant: Ho now! What have we here. Two ladies and some chump enter my cave.";
+"CutScene12Line2" = "Valkyrie: What's a giant doing here in Midgard?";
+"CutScene12Line3" = "Giant: Don't you know? Your days in the realms are winding down. Soon we Jotun shall rule in your place.";
+"CutScene12Line4" = "Seior: What audacity you have Jotun! You know you have no power here.";
+"CutScene12Line5" = "Giant: Oh indeed? The old man's protection here is waning.";
+"CutScene12Line6" = "Giant: I'll show you the power I do not have!";
+"CutScene12Line7" = ";";
+
+/* The party comes across a wounded animal */
+"CutScene13Line1" = "Seior: The giant must have been just a lackey. Here is the true enemy.";
+"CutScene13Line2" = "Ally: Let's go team, we'll take it out and end this war.";
+"CutScene13Line3" = "$";
+"CutScene13Line4" = "Roderick: Hold on a second!";
+"CutScene13Line5" = "Roderick: This is no monster. It's just a wounded animal.";
+"CutScene13Line6" = "Roderick: That Jotun must have captured it for dinner or something.";
+"CutScene13Line7" = "Seior: What are you talking about? Look at the size of that thing.";
+"CutScene13Line8" = "Roderick: Haha! I've seen larger creatures where I'm from.";
+"CutScene13Line9" = "Roderick: I tell you this is nothing to worry about. If anything we should save it.";
+"CutScene13Line10" = "$";
+"CutScene13Line11" = "Ranger: Thank you for defending this child of Midgard.";
+"CutScene13Line12" = "Ranger: You seem different from the marauders I usually meet. Who are you?";
+"CutScene13Line13" = "Roderick: I am Roderick, and I can assure you I am no marauder.";
+"CutScene13Line14" = "Ranger: Well met then Roderick! I am Budrostir, a ranger and protector of Midgard.";
+"CutScene13Line15" = "Budrostir: Why have you come to this cave?";
+"CutScene13Line16" = "Roderick: We came looking for the bush of peace. We thought It might have been taken by these monsters.";
+"CutScene13Line17" = "Roderick: But these monsters seemed to have nothing to do with it.";
+"CutScene13Line18" = "Budrostir: The bush of peace has gone missing eh? Come with me, I think I know where it might be.";
+"CutScene13Line19" = ";";
+
+/* The party comes to the foot of Mt. Highmountain */
+"CutScene14Line1" = "Budrostir: My friends have whispered that the bush is at the top of this mountain.";
+"CutScene14Line2" = "Roderick: Great. Now we have to climb a mountain?";
+"CutScene14Line3" = "Budrostir: Normally yes, but I hold some sway with the squirrel that has taken the bush.";
+"CutScene14Line4" = "Budrostir: I'll have my eagle friend let the squirrel know to give up the bush.";
+"CutScene14Line5" = "Roderick: All this is because of a squirrel? Are you serious?";
+"CutScene14Line6" = "Budrostir: Well not just any squirrel. This is Ratatosk we're dealing with.";
+"CutScene14Line7" = "Seior: Why would Ratatosk take the bush of peace?";
+"CutScene14Line8" = "Budrostir: He likes causing mischief and watching men fight. This does seem particularly malicious for him though.";
+"CutScene14Line9" = "Seior: Everything seems particularly malicious these days.";
+"CutScene14Line10" = "Budrostir: So you have seen that too. These are odd times indeed.";
+"CutScene14Line11" = "Budrostir: For now let us get this bush back. Arnfyt!";
+"CutScene14Line12" = "$";
+"CutScene14Line13" = "Budrostir: Let the squirrel know Budrostir needs the bush.";
+"CutScene14Line14" = "$";
+"CutScene14Line15" = "Arnfyt: *Squa!*";
+"CutScene14Line16" = "Budrostir: Really? What in the realms is going on here?";
+"CutScene14Line17" = "Roderick: What happened, what's going on?";
+"CutScene14Line18" = "Budrostir: It seems Ratatosk is in trouble. Apparently it wasn't his idea to take the bush.";
+"CutScene14Line19" = "%Well we must help Ratatosk then.%We need to get the bush back to the Astorians.%";
+/* We must help Ratatosk */
+"CutScene15Line1" = "Budrostir: I agree. Let us climb this mountain.";
+"CutScene15Line2" = ";";
+/* We must get the bush back */
+"CutScene16Line1" = "Budrostir: I see, so be it.";
+"CutScene16Line2" = "Roderick: You should come with us Budrostir.";
+"CutScene16Line3" = "Budrostir: I do not fault you your priorities, but they are not the same as mine.";
+"CutScene16Line4" = "Budrostir: Perhaps we'll meet again some time.";
+"CutScene16Line5" = ";";
+
+/* The party returns with the bush of peace */
+"CutScene17Line1" = "Dauphine: You've returned! Were you successful?";
+"CutScene17Line2" = "Roderick: Here Dauphine, this should end this war. Now will you help us enter Helheim.";
+"CutScene17Line3" = "Dauphine: I would love to help, but I'm afraid I was not truthful. I know not the way into Helheim.";
+"CutScene17Line4" = "Roderick: What do you mean?!";
+"CutScene17Line5" = "Dauphine: I'm sorry. We needed this war to end so I mislead you.";
+"CutScene17Line6" = "Roderick: You lousy elf! I'll show you what happens when you mislead us!";
+"CutScene17Line7" = "$";
+"CutScene17Line8" = "Seior: Roderick! Show Dauphine Urundyl's runestone.";
+"CutScene17Line9" = "$";
+"CutScene17Line10" = "Dauphine: My father gave you this? Has Ragnarok...";
+"CutScene17Line11" = "Seior: Not yet Dauphine, but it will if we do not get to Helheim.";
+"CutScene17Line12" = "Dauphine: I see. The Jotun is very powerful, but is not that bright.";
+"CutScene17Line13" = "Dauphine: If one of you can disorient him, you should be able to defeat him easily.";
+"CutScene17Line14" = "Ally: Great, I think I can manage that.";
+"CutScene17Line15" = "Dauphine: You will also need to prepare for Helheim itself.";
+"CutScene17Line16" = "Roderick: Prepare for Helheim? What does that entail?";
+"CutScene17Line17" = "Dauphine: You must protect against flames and other perils there.";
+"CutScene17Line18" = "Dauphine: Head to Nioavellir. The dwarves there can offer you hope of protecting yourselves.";
+"CutScene17Line19" = ";";
+
+/* The party is set upon by Fenrir */
+"CutScene18Line1" = "Giant Wolf: YOUR JOURNEY ENDS HERE RODERICK.";
+"CutScene18Line2" = "Seior: That's Fenrir. He knows your name Roderick.";
+"CutScene18Line3" = "Roderick: Something tells me that's not good...";
+"CutScene18Line4" = "Roderick: Fenrir! I will split your jaws in two!";
+"CutScene18Line5" = "Fenrir: HAHAHAHA! MY DOOM IS UPON YOU!";
+"CutScene18Line6" = "$";
+"CutScene18Line7" = "Roderick: He's so powerful. How can we hope to continue.";
+"CutScene18Line8" = "Ally: Perhaps this is the end. We have failed the gods and the realms.";
+"CutScene18Line9" = "Seior: Ragnarok is unavoidable now.";
+"CutScene18Line10" = "$";
+"CutScene18Line11" = "Budrostir: We gaurdians of Midgard will not abide this transgression dire wolf.";
+"CutScene18Line12" = "Budrostir: You can leave now, or face the collective maw of Midgard's wrath.";
+"CutScene18Line13" = "Fenrir: YOU FORGET YOURSELF RANGER. THIS AFFRONT WILL NOT BE FORGOTTEN.";
+"CutScene18Line14" = "Fenrir: SOON THE LAST BATTLE WILL BEGIN, AND YOU WILL BE REMINDED OF THIS MEETING BY MY JAWS.";
+"CutScene18Line15" = "Budrostir: You try my patience mongrel. Begone with you!";
+"CutScene18Line16" = "$";
+"CutScene18Line17" = "Roderick: Budrostir, your timing is impeccable.";
+"CutScene18Line18" = "Budrostir: There seem to be signs pointing to the end of days.";
+"CutScene18Line19" = "Budrostir: That would be the end for Midgard as well. I cannot allow that.";
+"CutScene18Line20" = "Roderick: So you will come with us then?";
+"CutScene18Line21" = "Budrostir: Yes, I will represent Midgard on this quest.";
+"CutScene18Line22" = "(The Ranger Budrostir has joined for good!";
+"CutScene18Line23" = "Roderick: Excellent! Let us make haste to Nioavellir then.";
+"CutScene18Line24" = "Ranger: Aye, we'll find an entrance under the mountains to the East.";
+
+/* The party arrives in Nioavellir */
+"CutScene19Line1" = "Dwarf: Stop right there human. I don't remember saying you could come in here.";
+"CutScene19Line2" = "$";
+"CutScene19Line3" = "Roderick: I'm sorry, I did not know we had to be invited little one.";
+"CutScene19Line4" = "Dwarf: Little one? I'll show you little.";
+"CutScene19Line5" = "$";
+"CutScene19Line6" = "WAIT!";
+"CutScene19Line7" = "Dwarf: Listen, we all like a good fight here y'know?";
+"CutScene19Line8" = "Dwarf: Rolve, you've surely made your point by now.";
+"CutScene19Line9" = "Dwarf: Why don't we let the group buy us a round and see if we can't work this out.";
+"CutScene19Line10" = "Rolve: Alright Alvis, you're now responsible for these outsiders.";
+"CutScene19Line11" = "$";
+"CutScene19Line12" = "Rolve: Let's get out of here guys.";
+"CutScene19Line13" = "$";
+"CutScene19Line14" = "Alvis: Alright team. Now how about those drinks.";
+"CutScene19Line15" = "$";
+"CutScene19Line16" = "Alvis: And so then the bear says, 'Wrecked 'em, damn near killed 'em";
+"CutScene19Line17" = "$";
+"CutScene19Line18" = "Alvis: You know what I mean?";
+"CutScene19Line19" = "$";
+"CutScene19Line20" = "Rolve: I see you're still here. I can't say we are alright with that.";
+"CutScene19Line21" = "$";
+"CutScene19Line22" = "Seior: I'm warning you dwarves. Stay back.";
+"CutScene19Line23" = "$";
+"CutScene19Line24" = "Seior: Kenaz!";
+"CutScene19Line25" = "$";
+"CutScene19Line26" = "Rolve: Hahaha! Your runic magic has no power on us wizard.";
+"CutScene19Line27" = "Alvis: Don't worry team, I've got this so long as you get the next round.";
+"CutScene19Line28" = "$";
+"CutScene19Line29" = "Alvis: Now how about that round?";
+"CutScene19Line30" = "$";
+"CutScene19Line31" = "Alvis: Protection from fire eh? I think I know who might be able to help.";
+"CutScene19Line32" = "Alvis: Follow me.";
+"CutScene19Line33" = ";";
+
+/* Alvis and Stolvin debate a price of the protective goods */
+"CutScene20Line1" = "Old Dwarf: Alvis! Good to see you again. How have you been?";
+"CutScene20Line2" = "Alvis: Fighting the good fight Stolvin.";
+"CutScene20Line3" = "Stolvin: More like drinking the good drink I'm sure.";
+"CutScene20Line4" = "Stolvin: What brings you to these parts of the mines?";
+"CutScene20Line5" = "Alvis: My friends here are in need of some protection for Helheim.";
+"CutScene20Line6" = "Stolvin: Oh yeah? Well I've got that for y'all. What do you have for me?";
+"CutScene20Line7" = "Seior: I don't think you understand. We need these items to prevent the end of the world.";
+"CutScene20Line8" = "Stolvin: And I need a barrel of beer, but that doesn't get it here! AHOHOHO!";
+"CutScene20Line9" = "Ally: Foolish dwarf! This is no time to be joking around.";
+"CutScene20Line10" = "Stolvin: Alvis, why have you brought me folks with empty pockets?";
+"CutScene20Line11" = "Alvis: Bah! Alright greedy beardy. We'll go get something to pay for these items.";
+"CutScene20Line12" = "$";
+"CutScene20Line13" = "Alvis: Stolvin won't give up his goods lightly.";
+"CutScene20Line14" = "Alvis: We'll have to get him something unique.";
+"CutScene20Line15" = "Alvis: I say we head East to grab some Orcan mead, but any path you take should get us something special.";
+"CutScene20Line16" = ";";
+
+/* The party returns with payment for Stolvin. */
+"CutScene21Line1" = "Roderick: We've returned with unique drink for you Stolvin. Does this suffice as payment?";
+"CutScene21Line2" = "Stolvin: AHOHO! What have we here? Alvis, is this what I think it is?";
+"CutScene21Line3" = "Alvis: As sure as a dwarf is short.";
+"CutScene21Line4" = "Stolvin: Well then. You all have earned your protections. Here they are.";
+"CutScene21Line5" = "&Kenaz";
+"CutScene21Line6" = "&Swopaz";
+"CutScene21Line7" = "&Gromanth";
+"CutScene21Line8" = "&Jera";
+"CutScene21Line9" = "Stolvin: May they keep you well. Now if you'll excuse me I have some work to do.";
+"CutScene21Line10" = ";";
+
+/* Here we will begin tutorial scripts. */
+/* Walking around tutorial */
+"Tutorial1Line1" = "To move in the realms, touch and hold the left or right edges of the screen.";
+"Tutorial1Line2" = "$";
+"Tutorial1Line3" = "You can combine your right and left thumbs for directions.";
+"Tutorial1Line4" = "$";
+"Tutorial1Line5" = "Hold both thumbs down towards the top to move up and towards the bottom to move down.";
+"Tutorial1Line6" = "Tap towards the middle of the screen to interact with the world around your character.";
+"Tutorial1Line7" = ";";
+
+/* Battle tutorials */
+/* Roderick battle tuorial */
+"Tutorial2Line1" = "This is the battle screen. Battles work a little differently than what you might be used to.";
+"Tutorial2Line2" = "$";
+"Tutorial2Line3" = "At the beginning of battle you can select a character. Go ahead and select Roderick by tapping him.";
+"Tutorial2Line4" = "$";
+"Tutorial2Line5" = "Great! Now that Roderick is selected, you can attack by slashing an enemy. Go ahead and slash through the enemy now.";
+"Tutorial2Line6" = "$";
+"Tutorial2Line7" = "Excellent! Every time Roderick attacks, he loses some endurance indicated by the grey bar below him.";
+"Tutorial2Line8" = "Try to strike a balance between attacking multiple times and attacking with high endurance.";
+"Tutorial2Line9" = "Ok, I think you're ready to take on this enemy soldier. Tap the screen when you're ready to defeat him.";
+"Tutorial2Line10" = ";";
+
+/* Valkyrie battle tutorial */
+"Tutorial3Line1" = "The Valkyrie will now help you in battle. Select her just like you would Roderick.";
+"Tutorial3Line2" = "Great! The Valkyrie attacks by tapping enemies.";
+"Tutorial3Line3" = "$";
+"Tutorial3Line4" = "In addition to tapping enemies, the Valkyrie can also use a 'Rage' attack by drawing a line from her to an enemy.";
+"Tutorial3Line5" = "Think of this Rage as a counter attack. As the Valkyrie takes more damage, she'll attack more often and more powerfully.";
+"Tutorial3Line6" = "$";
+"Tutorial3Line7" = "(Go ahead and draw a line from the Valkyrie to an enemy now.";
+"Tutorial3Line8" = "You'll show those enemies not to mess with a Valkyrie.";
+"Tutorial3Line9" = ";";
+
+/* Wizard and runes battle tutorial */
+"Tutorial4Line1" = "The Wizard attacks by tapping and holding on an enemy.";
+"Tutorial4Line2" = "The longer you hold down on an enemy, the more powerful the wizard's attack becomes.";
+"Tutorial4Line3" = "In addition to the wizard's attack, you can now use runes.";
+"Tutorial4Line4" = "The center of the battle screen is your canvas for the runes.";
+"Tutorial4Line5" = "$";
+"Tutorial4Line6" = "You can see how to draw runes in the runes menu, but there are a couple of things to remember.";
+"Tutorial4Line7" = "First, the order you draw rune lines in matters. Second, all of the lines need to be drawn independently.";
+"Tutorial4Line8" = "In other words: draw the first line, then lift your finger and then draw the second line, etc.";
+"Tutorial4Line9" = "Why does this mater? Well it is magic...";
+"Tutorial4Line10" = "$";
+"Tutorial4Line11" = "Once the rune is drawn, you can drag it to one of four zones.";
+"Tutorial4Line12" = "$";
+"Tutorial4Line13" = "(Onto an enemy.";
+"Tutorial4Line14" = "$";
+"Tutorial4Line15" = "(On the enemy side, but not on an enemy to attack all enemies.";
+"Tutorial4Line16" = "$";
+"Tutorial4Line17" = "(On a character.";
+"Tutorial4Line18" = "$";
+"Tutorial4Line19" = "And on the character side, but not on a character to affect all characters.";
+"Tutorial4Line20" = "$";
+"Tutorial4Line21" = "(Seior also has one more ability. Try shaking the phone.";
+"Tutorial4Line22" = "Seior can see the future by casting bones. You won't know when the future comes, but at least you know it will.";
+"Tutorial4Line23" = "If Seior divines the future again, it will change the future to come, so you might want to wait before casting bones again.";
+"Tutorial4Line24" = "I sense the future is coming soon.";
+"Tutorial4Line25" = "$";
+"Tutorial4Line26" = "You're gaining quite an arsenal. Perhaps you will avert the end of the world.";
+"Tutorial4Line27" = ";";
+
+/* Ranger battle tutorial */
+"Tutorial5Line1" = "The Ranger attacks with a bow. You can move your device to aim.";
+"Tutorial5Line2" = "Once you have your target over an enemy, tap the screen to shoot an arrow.";
+"Tutorial5Line3" = "If you hit an enemy, you'll do some damage and also inflict a bleeder on the enemy.";
+"Tutorial5Line4" = "$";
+"Tutorial5Line5" = "(Go ahead and try it out.";
+"Tutorial5Line6" = "(Great, now you can even watch the bleeders.";
+"Tutorial5Line7" = "In addition to his bow, Budrostir can call upon his animal friends for aid in battle.";
+"Tutorial5Line8" = "$";
+"Tutorial5Line9" = "The animals will help on their own, or you can focus their attention by drawing a line from the animal to one of the four zones.";
+"Tutorial5Line10" = "Be sure to be on the look out for new animals to help in your journey.";
+"Tutorial5Line11" = ";";
+
+/* Dwarf battle tutorial */
+"Tutorial6Line1" = "The dwarf attacks just like Roderick, but you may notice that his essence bar is at 0";
+"Tutorial6Line2" = "This is because Alvis cannot use runes like the rest of your party.";
+"Tutorial6Line3" = "He can order drinks however.";
+"Tutorial6Line4" = "$";
+"Tutorial6Line5" = "As Alvis has more to drink he'll get more and more drunk.";
+"Tutorial6Line6" = "Try and make sure he doesn't have too much to drink. You never know what'll happen to a dwarf that's had too much.";
+"Tutorial6Line7" = "$";
+"Tutorial6Line8" = "Alvis will probably learn to order more drinks along the way. Be on the lookout for them.";
+"Tutorial6Line9" = ";";

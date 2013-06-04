@@ -1,0 +1,8 @@
+<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+<command-line>: warning: this is the location of the previous definition
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/EAGLView.m: In function '-[EAGLView thereWasAPinch:]':
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/EAGLView.m:228: warning: 'InputManager' may not respond to '-thereWasAPinchOpen'
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/EAGLView.m:228: warning: (Messages without a matching method signature
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/EAGLView.m:228: warning: will be assumed to return 'id' and accept
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/EAGLView.m:228: warning: '...' as arguments.)
+/Users/zachbabb/Desktop/The Epic of Roderick/TEORWorldMapTest/Classes/EAGLView.m:230: warning: 'InputManager' may not respond to '-thereWasAPinchClose'

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="20" tilewidth="40" tileheight="40">
+ <tileset firstgid="1" name="Snow Tiles" tilewidth="40" tileheight="40">
+  <image source="SnowTiles.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA7NkYGCwHMWjmEwsPwjcQA42BmITIDYFYjMgNqeBHT5A7AvEfkDsD8QBNLAjFYjTgDgdiDOAOHMQhO0oHhzYAoiDaEwHjuJBhQFITAQ+0AcAAA==
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="25" height="20">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgIB+wATE7FpqaQB6IFbDQhNxECiDVH4TcgE8Psf4gB9AjPhiBmAmImYGYBYhZGajvDykglgZiGSCWBWI5Msyghd/RAS3icDiB0TgYBaOAvgAAb2pZedAHAAA=
+  </data>
+ </layer>
+</map>
