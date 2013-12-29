@@ -86,15 +86,19 @@
 {
     self = [super init];
     if (self) {
-        battleImage = [[Image alloc] initWithImageNamed:@"jotunheim.png" filter:GL_LINEAR];
+        battleImage = [[Image alloc] initWithImageNamed:@"alfheim@2x.png" filter:GL_LINEAR];
+        //float width = [[UIScreen mainScreen] bounds].size.height;
+        //CGSize rescaler = CGSizeMake(50, (width / 1196.) * 100);
+        //[battleImage setImageSizeToRender:rescaler];
         //battleImage = [sharedGameController.teorPSS imageForKey:@"BeachBackground480x320.png"];
-        sceneMap = [[TiledMap alloc] initWithFileName:@"SnowyCamp" fileExtension:@"tmx"];
+        //sceneMap = [[TiledMap alloc] initWithFileName:@"SnowyCamp" fileExtension:@"tmx"];
+        sceneMap = [[TiledMap alloc] initWithFileName:@"test" fileExtension:@"tmx"];
         battleFont = [sharedFontManager getFontWithKey:@"battleFont"];
         sharedGameController.realm = kRealm_Midgard;
         [sharedInputManager setUpRuneRect];
         [sharedSoundManager loadMusicWithKey:@"battle" musicFile:@"battle mode.mp3"];
-        Seior *rod = [[Seior alloc] initAtLocation:CGPointMake(77 * 40, 36 * 40)];
-        OldMan *oldMan = [[OldMan alloc] initAtLocation:CGPointMake(77 * 40, 40 * 40)];
+        Seior *rod = [[Seior alloc] initAtLocation:CGPointMake(10 * 64, 16 * 64)];
+        OldMan *oldMan = [[OldMan alloc] initAtLocation:CGPointMake(10 * 64, 10 * 64)];
         oldMan.triggerNextStage = YES;
         sharedGameController.player = rod;
         [self addEntityToActiveEntities:rod];

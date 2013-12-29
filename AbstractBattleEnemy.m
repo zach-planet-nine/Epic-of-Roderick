@@ -60,22 +60,23 @@
         sharedOverMind = [OverMind sharedOverMind];
         decisionTimer = RANDOM_0_TO_1() * 4;
         decisionChance = 5;
+        int width = [[UIScreen mainScreen] bounds].size.height;
         switch (aLocation) {
 			case 1:
 				//rect = CGRectMake(280, 90, 100, 120);
-				renderPoint = CGPointMake(340 + (RANDOM_MINUS_1_TO_1() * 7), 90 + (RANDOM_MINUS_1_TO_1() * 7));
+				renderPoint = CGPointMake((width - 140) + (RANDOM_MINUS_1_TO_1() * 7), 90 + (RANDOM_MINUS_1_TO_1() * 7));
 				break;
 			case 2:
 				//rect = CGRectMake(280, 210, 100, 120);
-				renderPoint = CGPointMake(340 + (RANDOM_MINUS_1_TO_1() * 7), 240 + (RANDOM_MINUS_1_TO_1() * 7));
+				renderPoint = CGPointMake((width - 140) + (RANDOM_MINUS_1_TO_1() * 7), 240 + (RANDOM_MINUS_1_TO_1() * 7));
 				break;
 			case 3:
 				//rect = CGRectMake(380, 90, 100, 120);
-				renderPoint = CGPointMake(420 + (RANDOM_MINUS_1_TO_1() * 7), 90 + (RANDOM_MINUS_1_TO_1() * 7));
+				renderPoint = CGPointMake((width - 60) + (RANDOM_MINUS_1_TO_1() * 7), 90 + (RANDOM_MINUS_1_TO_1() * 7));
 				break;
 			case 4:
 				//rect = CGRectMake(380, 210, 100, 120);
-				renderPoint = CGPointMake(420 + (RANDOM_MINUS_1_TO_1() * 7), 240 + (RANDOM_MINUS_1_TO_1() * 7));
+				renderPoint = CGPointMake((width - 60) + (RANDOM_MINUS_1_TO_1() * 7), 240 + (RANDOM_MINUS_1_TO_1() * 7));
 				break;
 			default:
 				break;

@@ -19,6 +19,10 @@
 		92FABC0716F8274A00BBD64C /* Baal_action_pose_10x-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FABC0416F8274A00BBD64C /* Baal_action_pose_10x-2.png */; };
 		92FABC0816F8274A00BBD64C /* Baal_dizzy_pose_4x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FABC0516F8274A00BBD64C /* Baal_dizzy_pose_4x.png */; };
 		92FABC0916F8274A00BBD64C /* Baal_ready_pose_4x.png in Resources */ = {isa = PBXBuildFile; fileRef = 92FABC0616F8274A00BBD64C /* Baal_ready_pose_4x.png */; };
+		A9A33C77186F8F1F001EA728 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A9A33C76186F8F1F001EA728 /* Images.xcassets */; };
+		A9A33C79186F9406001EA728 /* alfheim@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A9A33C78186F9406001EA728 /* alfheim@2x.png */; };
+		A9A33C7D186F993C001EA728 /* fulltiles.png in Resources */ = {isa = PBXBuildFile; fileRef = A9A33C7C186F993C001EA728 /* fulltiles.png */; };
+		A9A33C7F186F99F2001EA728 /* test.tmx in Resources */ = {isa = PBXBuildFile; fileRef = A9A33C7E186F99F2001EA728 /* test.tmx */; };
 		CA0028A913CA3D3E003472C2 /* IngrethAllEnemies.m in Sources */ = {isa = PBXBuildFile; fileRef = CA0028A813CA3D3E003472C2 /* IngrethAllEnemies.m */; };
 		CA0028AC13CA4102003472C2 /* IngrethSingleCharacter.m in Sources */ = {isa = PBXBuildFile; fileRef = CA0028AB13CA4102003472C2 /* IngrethSingleCharacter.m */; };
 		CA0028AF13CA4393003472C2 /* IngrethAllCharacters.m in Sources */ = {isa = PBXBuildFile; fileRef = CA0028AE13CA4392003472C2 /* IngrethAllCharacters.m */; };
@@ -698,6 +702,13 @@
 		92FABC0416F8274A00BBD64C /* Baal_action_pose_10x-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baal_action_pose_10x-2.png"; sourceTree = "<group>"; };
 		92FABC0516F8274A00BBD64C /* Baal_dizzy_pose_4x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Baal_dizzy_pose_4x.png; sourceTree = "<group>"; };
 		92FABC0616F8274A00BBD64C /* Baal_ready_pose_4x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Baal_ready_pose_4x.png; sourceTree = "<group>"; };
+		A9A33C73186F8C72001EA728 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		A9A33C74186F8E2E001EA728 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		A9A33C75186F8E3F001EA728 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		A9A33C76186F8F1F001EA728 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = TEORWorldMapTest/Images.xcassets; sourceTree = "<group>"; };
+		A9A33C78186F9406001EA728 /* alfheim@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "alfheim@2x.png"; sourceTree = "<group>"; };
+		A9A33C7C186F993C001EA728 /* fulltiles.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fulltiles.png; sourceTree = "<group>"; };
+		A9A33C7E186F99F2001EA728 /* test.tmx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = test.tmx; sourceTree = "<group>"; };
 		CA0028A713CA3D3E003472C2 /* IngrethAllEnemies.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IngrethAllEnemies.h; sourceTree = "<group>"; };
 		CA0028A813CA3D3E003472C2 /* IngrethAllEnemies.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IngrethAllEnemies.m; sourceTree = "<group>"; };
 		CA0028AA13CA4102003472C2 /* IngrethSingleCharacter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IngrethSingleCharacter.h; sourceTree = "<group>"; };
@@ -1845,6 +1856,9 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				A9A33C75186F8E3F001EA728 /* Default@2x.png */,
+				A9A33C74186F8E2E001EA728 /* Default.png */,
+				A9A33C73186F8C72001EA728 /* Default-568h@2x.png */,
 				CA41B22A13EC7C54001CCA9A /* EnglishScript.strings */,
 				CABDC47A139AE14000AD0CFC /* Menu Animations */,
 				CA0DF9EB1399842D00D1FA37 /* Battle Entities */,
@@ -1882,6 +1896,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A9A33C76186F8F1F001EA728 /* Images.xcassets */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* TEORWorldMapTest-Info.plist */,
 			);
@@ -2927,6 +2942,7 @@
 		CA61280E13E2146B00AEBF6B /* Loose Images */ = {
 			isa = PBXGroup;
 			children = (
+				A9A33C78186F9406001EA728 /* alfheim@2x.png */,
 				CAE9B62D13F46CFF005E8A4A /* ClawTrapClosed.png */,
 				CAE9B62E13F46CFF005E8A4A /* ClawTrapClosing.png */,
 				CAE9B62F13F46CFF005E8A4A /* ClawTrapOpen.png */,
@@ -3023,7 +3039,9 @@
 			children = (
 				CA9F63AA138ECDEC00D2B9FE /* test2.tmx */,
 				CA9F63AB138ECDEC00D2B9FE /* testtiles.png */,
+				A9A33C7E186F99F2001EA728 /* test.tmx */,
 				CAD9CDB713F204CB00B4C39B /* AlfheimMap.tmx */,
+				A9A33C7C186F993C001EA728 /* fulltiles.png */,
 				CAD9CDB813F204CB00B4C39B /* Alheim.png */,
 				CA9F63AD138ECDEC00D2B9FE /* thisisthetest.tmx */,
 				CA72022813F5ABD500E4F07D /* Nioavellir.tmx */,
@@ -4123,6 +4141,7 @@
 				CA54115C139D8A5800003B59 /* MenuSprites.png in Resources */,
 				CA541186139D8F7A00003B59 /* Rune195.png in Resources */,
 				CAF12E56139EB5C100DDFA37 /* Bone.png in Resources */,
+				A9A33C79186F9406001EA728 /* alfheim@2x.png in Resources */,
 				CAF12EAB139EBDAD00DDFA37 /* TongueAttack.png in Resources */,
 				CAF12EFA139EC21000DDFA37 /* CatapultArm.png in Resources */,
 				CAF12EFB139EC21000DDFA37 /* CatapultArmUp.png in Resources */,
@@ -4158,6 +4177,7 @@
 				CA266EC6139FEC9400194050 /* TestFireballEmitter.pex in Resources */,
 				CA266EC7139FEC9400194050 /* TestProjectileEmitter.pex in Resources */,
 				CA266EC8139FEC9400194050 /* TextureLoader.pex in Resources */,
+				A9A33C7F186F99F2001EA728 /* test.tmx in Resources */,
 				CA266EC9139FEC9400194050 /* VineCoilEmitter.pex in Resources */,
 				CA266ECA139FEC9400194050 /* VineEmitterTest.pex in Resources */,
 				CA266ECB139FEC9400194050 /* WaterSpout.pex in Resources */,
@@ -4232,6 +4252,7 @@
 				CAECCC2413C9140D006E9ECA /* Hex.png in Resources */,
 				CA0028B113CA45AF003472C2 /* IngrethEmitter.pex in Resources */,
 				CA0028B613CA48D9003472C2 /* Mjollnir.png in Resources */,
+				A9A33C77186F8F1F001EA728 /* Images.xcassets in Resources */,
 				CA0028B813CA4A83003472C2 /* Gungnir.png in Resources */,
 				CA0028CA13CA5B32003472C2 /* Garm.png in Resources */,
 				CA0028CD13CA5D66003472C2 /* HelazEmitter.pex in Resources */,
@@ -4269,6 +4290,7 @@
 				CAE4AFCA13DE24200065198A /* fire_elemental.png in Resources */,
 				CACDB2D013DF4C9E00CDD20A /* Seior.png in Resources */,
 				CACDB2DE13DF93AB00CDD20A /* EnemyWaterEmitter.pex in Resources */,
+				A9A33C7D186F993C001EA728 /* fulltiles.png in Resources */,
 				CACDB2E613DFB7D500CDD20A /* demon_poison_mage.png in Resources */,
 				CA61280713E2131700AEBF6B /* evil cave.mp3 in Resources */,
 				CA61280913E213F100AEBF6B /* overworld 1.mp3 in Resources */,
@@ -4748,6 +4770,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Zach Babb (37767W5Q6Q)";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -4764,6 +4788,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -4825,6 +4851,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
@@ -4859,6 +4887,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;

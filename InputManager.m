@@ -56,15 +56,18 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(InputManager);
 		drawCounter = 0;
 		gestureCounter = 0;
 		countIt = 0;
+        int width = [[UIScreen mainScreen] bounds].size.height;
+        
+        NSLog(@"width is: %d", width);
 		playersRect = CGRectMake(0, 0, 120, 320);
 		//runeRect = CGRectMake(120, 0, 160, 320);
-		enemiesRect = CGRectMake(280, 0, 200, 320);
+		enemiesRect = CGRectMake(width - 200, 0, 200, 320);
 		runeCancelRect = CGRectMake(0, 0, 120, 320);
 		leftRect = CGRectMake(0, 107, 80, 106);
 		upLeftRect = CGRectMake(0, 214, 80, 106);
-		upRightRect = CGRectMake(400, 214, 80, 106);
-		rightRect = CGRectMake(400, 107, 80, 106);
-		downRightRect = CGRectMake(400, 0, 80, 106);
+		upRightRect = CGRectMake(width - 80, 214, 80, 106);
+		rightRect = CGRectMake(width - 80, 107, 80, 106);
+		downRightRect = CGRectMake(width - 80, 0, 80, 106);
 		downLeftRect = CGRectMake(0, 0, 80, 106);
 		recordTouch = YES;
 		[[UIAccelerometer sharedAccelerometer] setUpdateInterval:1.0 / 50.0];
@@ -99,6 +102,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(InputManager);
 		if (recordTouch) {
 			//////NSLog(@"Touch made it here, %d, with touchHash %d", state, touch.hash);
 			touchLocation = [sharedGameController adjustTouchOrientationForTouch:[touch locationInView:aView]];
+            NSLog(@"Touch detected at: %f, %f", touchLocation.x, touchLocation.y);
 			switch (state) {
 					//Start battle touches.
 					//////NSLog(@"Touch made it to Roderick.");

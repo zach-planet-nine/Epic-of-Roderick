@@ -117,6 +117,8 @@
 
 -(void) initOpenGL {
 	
+    int width = [[UIScreen mainScreen] bounds].size.height;
+    
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
 	
@@ -142,9 +144,9 @@
 	glEnable(GL_BLEND);
 	
 	glLoadIdentity();
-	glTranslatef(160, 240, 0);
+	glTranslatef(160, width/2, 0);
 	glRotatef(270, 0, 0, 1);
-	glTranslatef(-240, -160, 0);
+	glTranslatef(-(width/2), -160, 0);
 }
 
 @end

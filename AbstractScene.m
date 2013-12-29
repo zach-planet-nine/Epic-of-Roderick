@@ -207,8 +207,8 @@
             glTranslatef(240 - (int)(cameraPosition.x * 40), 
                          160 - (int)(cameraPosition.y * 40), 0);
             
-            [sceneMap renderLayer:0 mapx:cameraPosition.x - 6 mapy:cameraPosition.y - 5 width:14 height:11 useBlending:YES];
-            [sceneMap renderLayer:1 mapx:cameraPosition.x - 6 mapy:cameraPosition.y - 5 width:14 height:11 useBlending:YES];
+            [sceneMap renderLayer:0 mapx:cameraPosition.x - 7 mapy:cameraPosition.y - 6 width:16 height:13 useBlending:YES];
+            [sceneMap renderLayer:1 mapx:cameraPosition.x - 7 mapy:cameraPosition.y - 6 width:16 height:13 useBlending:YES];
             for (AbstractEntity *entity in activeEntities) {
                 if (entity != sharedGameController.player) {
                     [entity render];

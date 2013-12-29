@@ -137,7 +137,7 @@
         }
     }
     if (active && !wait) {
-        currentTile = CGPointMake((int)((currentLocation.x) / 40), (int)((currentLocation.y) / 40));
+        currentTile = CGPointMake((int)((currentLocation.x) / 64), (int)((currentLocation.y) / 64));
         if (moving == kMovingAutomated) {
             if (currentLocation.x != destination.x || currentLocation.y != destination.y) {
                 currentLocation = CGPointMake(currentLocation.x + (velocity.x * aDelta), currentLocation.y + (velocity.y * aDelta));
