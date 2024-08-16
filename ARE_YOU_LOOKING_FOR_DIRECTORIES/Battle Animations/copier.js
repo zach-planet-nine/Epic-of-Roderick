@@ -10,7 +10,7 @@ let characterRunes = {
 };
 
 const codePath = path.join(__dirname, '../../');
-const runeAnimationsPath = path.join(__dirname, 'Rune\ Animations');
+const runeAnimationPath = path.join(__dirname, 'Rune\ Animations');
 characterRunes.roderickPath = path.join(runeAnimationPath, 'Rodericks\ Runes');
 characterRunes.valkyriePath = path.join(runeAnimationPath, 'Valkyries\ Runes');
 characterRunes.wizardPath = path.join(runeAnimationPath, 'Wizards\ Runes');
@@ -19,8 +19,9 @@ characterRunes.poetPath = path.join(runeAnimationPath, 'Poets\ Runes');
 
 
 
-const addRuneToCharacterRunes(file) => {
-  const code = fs.readFileSync(file, {encoding: 'utf-8'});
+const addRuneToCharacterRunes = (file) => {
+console.log(file);
+  const code = fs.readFileSync(path.join(__dirname, `../../${file}`), {encoding: 'utf-8'});
   let characterToReturn;
 
   Object.keys(characterRunes).forEach(character => {
@@ -36,16 +37,23 @@ const addRuneToCharacterRunes(file) => {
 const runes = fs.readdirSync('../../').filter(file => file.indexOf('AllEnemies') !== -1).map(file => addRuneToCharacterRunes(file)).map(file => file.split('AllEnemies')[0]);
 
 Object.keys(characterRunes).forEach(character => {
+  if(!Array.isArray(characterRunes[character])) {
+    return;
+  }
   characterRunes[character].forEach(rune => {
     const runePath = path.join(characterRunes[`${character}Path`], rune);
-    fs.mkdir(runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}SingleEnemy.h`), runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}AllEnemies.h`), runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}SingleCharacter.h`), runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}AllCharacters.h`), runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}SingleEnemy.m`), runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}AllEnemies.m`), runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}SingleCharacter.m`), runePath);
-    fs.copyFileSync(path.join(codePath, `${rune}AllCharacters.m`), runePath);
+    try {
+      fs.mkdirSync(runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}SingleEnemy.h`), runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}AllEnemies.h`), runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}SingleCharacter.h`), runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}AllCharacters.h`), runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}SingleEnemy.m`), runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}AllEnemies.m`), runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}SingleCharacter.m`), runePath);
+      fs.copyFileSync(path.join(codePath, `${rune}AllCharacters.m`), runePath);
+    } catch(err) {
+      console.warn(err);
+    }
   });
 });
